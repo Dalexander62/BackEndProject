@@ -38,7 +38,7 @@ In order to manage my project I used Jira Software (link is above) to create an 
 
 ## Version Control
 
-I used GitHub as a Version Control System for this application. I created two public repositories one for the back-end code and one for the front-end code. I created branches off the develop branch in order to track and manage changes to my code, whilst ensuring that I always maintained a working version.
+I used Git with GitHub as a Version Control System for this application. I created two public repositories one for the back-end code and one for the front-end code. I created branches off the develop branch in order to track and manage changes to my code, whilst ensuring that I always maintained a working version. I made sure to combine my Jira board and Git with smart commits continuously. 
 
 (please see network graph within repo) 
 
