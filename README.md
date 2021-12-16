@@ -42,7 +42,7 @@ I used GitHub as a Version Control System for this application. I created two pu
 
 (please see network graph within repo) 
 
-### Databases and Postman
+## Databases and Postman
 
 I used a local H2 database for the testing of my application as it doesn’t persist data.
 
