@@ -33,14 +33,14 @@ The brief for this project was to create a CRUD application with the utilisation
 First, I created a list of features for my app and prioritised them using the MoSCow method, and put the features required for the application to meet the minimum viable product under the must have column.
 
 
-In order to manage my project, I used Jira Software to create an Agile Scrum Board. I used this to create User stories, Epics, and tasks based on the features I wanted my application to have. I provided each of these epics, user stories and tasks with story point estimates to help me judge how much work I had remaining.
+In order to manage my project I used Jira Software (link is above) to create an Agile Scrum Board. I used this to create User stories, Epics, and Tasks based on the features I wanted my application to have. I also provided them with story point estimations to judge the importance.
 
 
 ## Version Control
 
-I used GitHub as a Version Control System for this application. I created two public repositories one for the backend code and one for the frontend code. I created branches off the develop branch in order to track and manage changes to my code, whilst ensuring that I always maintained a working version which I could go back to if needed.
+I used GitHub as a Version Control System for this application. I created two public repositories one for the back-end code and one for the front-end code. I created branches off the develop branch in order to track and manage changes to my code, whilst ensuring that I always maintained a working version.
 
-(Unable to upload network graphs) 
+(please see network graph within repo) 
 
 ### Databases and Postman
 
@@ -48,13 +48,13 @@ I used a local H2 database for the testing of my application as it doesn’t per
 
 ![h2](https://github.com/Dalexander62/BackEndProject/blob/main/Hobby%20Project%20Docs/h2-screenshot%20-%20Copy.png)
 
-I used a ufc_fighter.schema.sql to create and drop this table between each test, I also used a game-data.sql to insert a specific record into the database for each test so that I knew exactly what the database would contain at the beginning and end of each test.
+I used a ufc_fighter.schema.sql to create and drop this table between each test, I also used a ufc_fighter-data.sql to insert a specific record into the database for each test allowing me to what data is being input.
 
 I used a MySQL database for production purposes as it persists data:
 
 ![sql](https://github.com/Dalexander62/BackEndProject/blob/main/Hobby%20Project%20Docs/sql.png)
 
-Here is an ERD for the structure of both of my databases:
+Here is an ERD for the structure of my database:
 
 ![ERD](https://github.com/Dalexander62/BackEndProject/blob/main/Hobby%20Project%20Docs/ERD.png)
 
